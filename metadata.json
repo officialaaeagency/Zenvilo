@@ -1,0 +1,6 @@
+{
+  "name": "Zenvilo — Modern Everyday Essentials",
+  "description": "Zenvilo is a modern, trustworthy e-commerce brand curating problem-solving, high-utility essentials across everyday categories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
